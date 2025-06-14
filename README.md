@@ -1,37 +1,35 @@
 # Passive Satellite Signal Defense and Triangulation System (PSSDTS)
 
-This repository contains a white paper detailing a conceptual defense framework titled **"Passive Satellite Signal Defense and Triangulation System (PSSDTS)"**, developed by **Sidhant Negi**. The goal is to proactively detect, localize, and track unauthorized or foreign satellite transmissions using passive radar arrays, frequency tagging, signal triangulation, and AI-based anomaly detection.
-
-## 📄 White Paper Summary
-
-- **Title**: Passive Satellite Signal Defense and Triangulation System for National Signal Security
-- **Author**: Sidhant Negi
-- **Scope**: Detection of quantum, encrypted, and frequency-hopping signals; triangulation of unauthorized satellite communication
-- **Applications**: National defense, strategic communication security, stealth aircraft detection, and space sovereignty
-
-## 🛰️ Core Components
-
-- Frequency-agnostic passive radar array
-- Triangulation of sender/receiver without requiring signal response
-- AI-based signal fingerprinting and anomaly detection
-- National radar grid integration for electromagnetic surveillance
-- Capability to expose stealth aerial systems and satellite-originated attacks
-
-## 🔐 Status of Submission
-
-A message summarizing the concept was sent to the **official PMO India Instagram account**.  
-**Due to lack of upload capability on the platform, the full white paper was not submitted via DM.**  
-Formal submission pending availability of a secure communication channel with national authorities.
-
-## ⚠️ Disclaimer
-
-This is a **conceptual idea** intended to stimulate research and dialogue in the national security and aerospace defense domain. It is not currently under development or endorsed by any government agency.
-
-## 📂 Contents
-
-- `white-paper.pdf` – Full technical write-up
-- `README.md` – Project summary and submission status
+This repository contains the concept paper for a proposed national defense system focused on detecting, classifying, and triangulating unauthorized satellite signals using passive methods. It combines long-range radar integration, signal fingerprinting, and AI-assisted triangulation to protect national airspace and communication channels.
 
 ---
 
-**Note:** If this project is of interest to a relevant authority or research lab, collaboration inquiries are welcome via official channels.
+## 📌 Purpose
+
+The project proposes a passive defense architecture capable of:
+
+- Detecting stealth communication from enemy satellites
+- Triangulating the origin of encrypted or quantum-layer signals
+- Supporting space-based and ground-based national defense grids
+
+It aims to serve as a forward-looking security measure in an era of rising satellite espionage and quantum communication threats.
+
+---
+
+## 📬 Submission to PMO
+
+This project has been **shared with India’s Prime Minister’s Office (PMO)** through public communication channels for **awareness and conceptual review**. This is not an official partnership or endorsement, but a proactive contribution to national security discourse.
+
+---
+
+## ⚠️ Disclaimer
+
+This is a **conceptual and academic initiative**, not an operational system. The technical design is speculative and open for review, critique, and development by research organizations and defense institutions. The author does not claim formal affiliation with any governmental or military entity.
+
+---
+
+## 🧠 Author
+
+**Sidhant Negi**  
+Independent Researcher | Cybersecurity and Strategic Systems  
+https://github.com/Sidhant1s
