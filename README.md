@@ -1,43 +1,37 @@
-Passive Satellite Signal Defense and Triangulation System (PSSDTS) 
-🛰️ Conceptual White Paper | National Signal Surveillance Framework
-Author: Sidhant Negi
-Submitted to: Prime Minister’s Office, Government of India (2025)
+# Passive Satellite Signal Defense and Triangulation System (PSSDTS)
 
-📄 Overview
-This repository contains the conceptual white paper titled:
+This repository contains a white paper detailing a conceptual defense framework titled **"Passive Satellite Signal Defense and Triangulation System (PSSDTS)"**, developed by **Sidhant Negi**. The goal is to proactively detect, localize, and track unauthorized or foreign satellite transmissions using passive radar arrays, frequency tagging, signal triangulation, and AI-based anomaly detection.
 
-"Passive Satellite Signal Defense and Triangulation System for National Signal Security"
+## 📄 White Paper Summary
 
-The idea proposes a multi-layered defense framework using passive satellite surveillance, ground-based radar triangulation, and encrypted frequency intelligence to detect and neutralize unauthorized or hostile satellite communications — even those employing quantum or stealth methods.
+- **Title**: Passive Satellite Signal Defense and Triangulation System for National Signal Security
+- **Author**: Sidhant Negi
+- **Scope**: Detection of quantum, encrypted, and frequency-hopping signals; triangulation of unauthorized satellite communication
+- **Applications**: National defense, strategic communication security, stealth aircraft detection, and space sovereignty
 
-🔍 Key Features
-Passive Frequency Scanning: Detects all signals entering national airspace, regardless of encryption or protocol.
+## 🛰️ Core Components
 
-AI Signal Fingerprinting: Classifies friendly vs suspicious transmissions using unique frequency IDs (UFIDs).
+- Frequency-agnostic passive radar array
+- Triangulation of sender/receiver without requiring signal response
+- AI-based signal fingerprinting and anomaly detection
+- National radar grid integration for electromagnetic surveillance
+- Capability to expose stealth aerial systems and satellite-originated attacks
 
-Non-Intrusive Triangulation: Locates sender/receiver without active participation.
+## 🔐 Status of Submission
 
-Quantum-Aware Design: Capable of tracking quantum and hypersonic threats.
+A message summarizing the concept was sent to the **official PMO India Instagram account**.  
+**Due to lack of upload capability on the platform, the full white paper was not submitted via DM.**  
+Formal submission pending availability of a secure communication channel with national authorities.
 
-Unpenetrable Dome Concept: Creates a shielded space-air electromagnetic barrier against cyber/kinetic satellite-based attacks.
+## ⚠️ Disclaimer
 
-🔐 National Value
-This idea, if implemented, provides a cost-effective, preemptive defense model against:
+This is a **conceptual idea** intended to stimulate research and dialogue in the national security and aerospace defense domain. It is not currently under development or endorsed by any government agency.
 
-Satellite surveillance
+## 📂 Contents
 
-Covert quantum transmissions
+- `white-paper.pdf` – Full technical write-up
+- `README.md` – Project summary and submission status
 
-Hypersonic & nuclear delivery signals
+---
 
-Stealth aircraft signal leakage
-
-It significantly upgrades a nation's aerospace security posture and is designed to integrate with DRDO, ELINT, and national radar assets.
-
-📎 Usage
-This repository serves as a reference for cybersecurity and defense research interviews, technical evaluations, and concept demonstrations. The white paper PDF is included for viewing.
-
-📢 Disclaimer
-This is a conceptual defense idea, not an implemented product.
-Sent to Indian authorities for consideration.
-Shared here for academic and interview purposes only.
+**Note:** If this project is of interest to a relevant authority or research lab, collaboration inquiries are welcome via official channels.
